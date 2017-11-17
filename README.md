@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 17, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jane Pietruszka
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, we learned to be able to activate a click button.
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned to use a click button.
+2. I learned some of the basics of jQuery.
+3. I learned jQuery commands are much more simple than JavaScript commands. 
 
