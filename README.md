@@ -13,8 +13,7 @@ Jane Pietruszka
 In this assignment, we learned to be able to activate a click button.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://janepietruszka.github.io/lesson7_jquery-/
 
 ### Lessons Learned in the Assignment:
 1. I learned to use a click button.
